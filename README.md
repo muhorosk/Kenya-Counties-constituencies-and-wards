@@ -1,2 +1,3 @@
 # Kenya-Counties-constituencies-and-wards
-HTML dependent drop down menu
+This is a Html code for developers who need a dependent drop down menu for the counties, constituencies and wards
+
